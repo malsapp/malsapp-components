@@ -1,6 +1,6 @@
 {
   "name": "@malsapp/loading",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Loading annotation to add loading indicator",
   "main": "index.js",
   "scripts": {
