@@ -27,7 +27,7 @@ const Annotation = (property, LoadingIndicator = Default) => Child => (props) =>
     </View>);
   }
 
-  return (<Child />);
+  return (<Child {...props}/>);
 };
 
 Annotation.DEFAULT = Default;
