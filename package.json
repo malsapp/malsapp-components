@@ -1,5 +1,5 @@
 {
-  "name": "@malsapp/loading",
+  "name": "@malsapp/react-native-msloading",
   "version": "1.0.1",
   "description": "Loading annotation to add loading indicator",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "repository": "https://github.com/malsapp/malsapp-components",
+  "repository": "https://github.com/malsapp/react-native-msloading",
   "license": "MIT",
   "peerDependencies": {
     "react": "^15.4.2",
