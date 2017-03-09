@@ -1,5 +1,5 @@
 {
-  "name": "@malsapp/react-native-msloading",
+  "name": "@malsapp/react-native-maloading",
   "version": "1.0.1",
   "description": "Loading annotation to add loading indicator",
   "main": "index.js",
