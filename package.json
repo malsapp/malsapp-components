@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "repository": "https://github.com/malsapp/react-native-msloading",
+  "repository": "https://github.com/malsapp/react-native-maloading",
   "license": "MIT",
   "peerDependencies": {
     "react": "^15.4.2",
